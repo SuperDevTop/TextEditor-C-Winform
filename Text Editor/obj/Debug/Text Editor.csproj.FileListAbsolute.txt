@@ -1,0 +1,13 @@
+D:\Christian\Extra\TextEditor\Text Editor\bin\Debug\Text Editor.exe.config
+D:\Christian\Extra\TextEditor\Text Editor\bin\Debug\Text Editor.exe
+D:\Christian\Extra\TextEditor\Text Editor\bin\Debug\Text Editor.pdb
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text Editor.csproj.AssemblyReference.cache
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text_Editor.frmEditor.resources
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text Editor.csproj.GenerateResource.cache
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text Editor.csproj.CoreCompileInputs.cache
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text Editor.exe
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text Editor.pdb
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text_Editor.Login.resources
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text_Editor.Help.resources
+D:\Christian\Extra\TextEditor\Text Editor\obj\Debug\Text_Editor.Register.resources
